@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP-CRM System Import Organizations\n"
+"POT-Creation-Date: 2016-03-30 16:21-0700\n"
+"PO-Revision-Date: 2016-03-30 16:21-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-crm-system-import-organizations.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: EDD_SL_Plugin_Updater.php:181
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: EDD_SL_Plugin_Updater.php:188
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: EDD_SL_Plugin_Updater.php:326
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: EDD_SL_Plugin_Updater.php:326
+msgid "Error"
+msgstr ""
+
+#: import.php:15
+msgid "File not allowed, please use a CSV file."
+msgstr ""
+
+#: import.php:18
+msgid "File size must be less than"
+msgstr ""
+
+#: import.php:99
+msgid "There was an error with the categories and they could not be set."
+msgstr ""
+
+#: import.php:122
+msgid "Organizations uploaded. "
+msgstr ""
+
+#: import.php:122
+msgid " added. "
+msgstr ""
+
+#: import.php:122
+msgid " skipped."
+msgstr ""
+
+#: import.php:133
+msgid "Import Organizations From CSV"
+msgstr ""
+
+#: import.php:143
+#, php-format
+msgid ""
+"Important: Please make sure your CSV file is in the <a href=\"%s\">correct "
+"format</a>. If it is out of order, your fields will not be imported "
+"correctly. "
+msgstr ""
+
+#: import.php:151
+msgid "Export Organizations"
+msgstr ""
+
+#: license.php:8
+msgid "Import Organizations License Key"
+msgstr ""
+
+#: license.php:12
+msgid "Enter your license key"
+msgstr ""
+
+#: license.php:18 license.php:27
+msgid "Activate License"
+msgstr ""
+
+#: license.php:22
+msgid "active"
+msgstr ""
+
+#: license.php:24
+msgid "Deactivate License"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP-CRM System Import Organizations"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.wp-crm.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Upload organizations to WP-CRM System in a CSV file."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scott DeLuzio"
+msgstr ""
